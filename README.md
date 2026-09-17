@@ -15,7 +15,7 @@ Sistema de Cadastro de Veículos em Java, utilizando Programação Orientada a O
 
 ## Como compilar e executar
 
-Pelo terminal, na raiz do projeto:
+Pelo terminal, na pasta raiz do projeto:
 
 \`\`\`bash
 javac -d bin src/Veiculo.java src/CadastroVeiculos.java
